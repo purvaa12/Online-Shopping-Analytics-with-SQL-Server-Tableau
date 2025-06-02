@@ -4,12 +4,17 @@ This project aims to uncover key insights from e-commerce transactions using SQL
 
 -Project Objectives
 Design and populate a structured SQL database using real-world online shopping data.
+
 Analyze customer behavior, product trends, and sales metrics using advanced SQL queries.
+
 Build dynamic Tableau dashboards to present actionable business insights.
 
 -Tools & Technologies
 
 Database: SQL Server Management Studio (SSMS)
+
 Visualization: Tableau
+
 Dataset: Kaggle (Excel format)
+
 Skills: SQL, Data Modeling, Business Analytics, Inventory & Sales Analysis
